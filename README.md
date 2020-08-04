@@ -1,5 +1,5 @@
 ## Peak-Load Pricing and Demand Management for Ridesourcing Platforms
-This repository contains material for analyzing a pricing mechanism that maximizes platform revenue while staggering predicted peaks in the demand-supply mismatch.
+This repository contains material for analyzing a pricing mechanism that maximizes platform revenue while staggering peaks in the load process, where the load process describes the predicted demand-supply mismatch.
 The pricing mechanism is applied to ridesourcing data describing Lyft operations in NYC. A csv file with the cleaned data is available in this repository.
 
 ### Overview
